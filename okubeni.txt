@@ -2,3 +2,6 @@ bak oku
 gene oku
 
 erkan
+
+
+erkan 1
